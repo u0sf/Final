@@ -16,28 +16,4 @@
     <loc>https://youssefradwan.site/#contact</loc>
     <priority>0.7</priority>
   </url>
-  <url>
-    <loc>https://github.com/u0sf/DarkStrike</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://github.com/u0sf/Morse-Code-Decoder</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://github.com/u0sf/Multi-Game-Hub</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://github.com/SnakeChaosHouse/Fall-Detection-System</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://github.com/u0sf/ViVision</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://github.com/u0sf/BusGuard</loc>
-    <priority>0.5</priority>
-  </url>
 </urlset> 
